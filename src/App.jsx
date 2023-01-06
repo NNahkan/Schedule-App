@@ -59,7 +59,7 @@ function App() {
     count: 1,
     locations: {
       surfers: ["ali", "jonathan", "jon", "mike"],
-      grizzly: [ "jon", "mike"],
+      grizzly: ["jon", "mike"],
       billy: ["ali", "jonathan", "jon"],
     },
     employees: {

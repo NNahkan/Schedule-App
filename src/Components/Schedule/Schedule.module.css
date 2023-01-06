@@ -39,3 +39,17 @@
 	flex-direction: column;
 	gap: 10px;
  }
+
+ .shiftWrapper {
+	position: relative;
+ }
+ 
+ .editButton {
+	position: absolute;
+	size: 12px;
+	background-color: transparent;
+	color: red;
+	right: 0;
+	top: 0;
+	transform: translate(30%,-30%);
+}
